@@ -1,0 +1,181 @@
+software_key,software_name,software_version,port_number,protocol
+1,Microsoft RPC,1.0,135,tcp
+2,Microsoft SMBv1,1.0,445,tcp
+3,Apache HTTP Server,1.0,80,tcp
+4,OpenSSH,1.0,22,tcp
+5,Spring Framework,1.0,8080,tcp
+6,Microsoft RDP,1.0,3389,tcp
+7,Docker runc,1.0,0,tcp
+8,Microsoft RPC,1.0,135,tcp
+9,Microsoft SMBv1,1.0,445,tcp
+10,Apache HTTP Server,1.0,80,tcp
+11,OpenSSH,1.0,22,tcp
+12,Spring Framework,1.0,8080,tcp
+13,Microsoft RDP,1.0,3389,tcp
+14,Docker runc,1.0,0,tcp
+15,Microsoft RPC,1.0,135,tcp
+16,Microsoft SMBv1,1.0,445,tcp
+17,Apache HTTP Server,1.0,80,tcp
+18,OpenSSH,1.0,22,tcp
+19,Spring Framework,1.0,8080,tcp
+20,Microsoft RDP,1.0,3389,tcp
+21,Docker runc,1.0,0,tcp
+22,Microsoft RPC,1.0,135,tcp
+23,Microsoft SMBv1,1.0,445,tcp
+24,Apache HTTP Server,1.0,80,tcp
+25,OpenSSH,1.0,22,tcp
+26,Spring Framework,1.0,8080,tcp
+27,Microsoft RDP,1.0,3389,tcp
+28,Docker runc,1.0,0,tcp
+29,Microsoft RPC,1.0,135,tcp
+30,Microsoft SMBv1,1.0,445,tcp
+31,Apache HTTP Server,1.0,80,tcp
+32,OpenSSH,1.0,22,tcp
+33,Spring Framework,1.0,8080,tcp
+34,Microsoft RDP,1.0,3389,tcp
+35,Docker runc,1.0,0,tcp
+36,Microsoft RPC,1.0,135,tcp
+37,Microsoft SMBv1,1.0,445,tcp
+38,Apache HTTP Server,1.0,80,tcp
+39,OpenSSH,1.0,22,tcp
+40,Spring Framework,1.0,8080,tcp
+41,Microsoft RDP,1.0,3389,tcp
+42,Docker runc,1.0,0,tcp
+43,Microsoft RPC,1.0,135,tcp
+44,Microsoft SMBv1,1.0,445,tcp
+45,Apache HTTP Server,1.0,80,tcp
+46,OpenSSH,1.0,22,tcp
+47,Spring Framework,1.0,8080,tcp
+48,Microsoft RDP,1.0,3389,tcp
+49,Docker runc,1.0,0,tcp
+50,Microsoft RPC,1.0,135,tcp
+51,Microsoft SMBv1,1.0,445,tcp
+52,Apache HTTP Server,1.0,80,tcp
+53,OpenSSH,1.0,22,tcp
+54,Spring Framework,1.0,8080,tcp
+55,Microsoft RDP,1.0,3389,tcp
+56,Docker runc,1.0,0,tcp
+57,Microsoft RPC,1.0,135,tcp
+58,Microsoft SMBv1,1.0,445,tcp
+59,Apache HTTP Server,1.0,80,tcp
+60,OpenSSH,1.0,22,tcp
+61,Spring Framework,1.0,8080,tcp
+62,Microsoft RDP,1.0,3389,tcp
+63,Docker runc,1.0,0,tcp
+64,Microsoft RPC,1.0,135,tcp
+65,Microsoft SMBv1,1.0,445,tcp
+66,Apache HTTP Server,1.0,80,tcp
+67,OpenSSH,1.0,22,tcp
+68,Spring Framework,1.0,8080,tcp
+69,Microsoft RDP,1.0,3389,tcp
+70,Docker runc,1.0,0,tcp
+71,Microsoft RPC,1.0,135,tcp
+72,Microsoft SMBv1,1.0,445,tcp
+73,Apache HTTP Server,1.0,80,tcp
+74,OpenSSH,1.0,22,tcp
+75,Spring Framework,1.0,8080,tcp
+76,Microsoft RDP,1.0,3389,tcp
+77,Docker runc,1.0,0,tcp
+78,Microsoft RPC,1.0,135,tcp
+79,Microsoft SMBv1,1.0,445,tcp
+80,Apache HTTP Server,1.0,80,tcp
+81,OpenSSH,1.0,22,tcp
+82,Spring Framework,1.0,8080,tcp
+83,Microsoft RDP,1.0,3389,tcp
+84,Docker runc,1.0,0,tcp
+85,Microsoft RPC,1.0,135,tcp
+86,Microsoft SMBv1,1.0,445,tcp
+87,Apache HTTP Server,1.0,80,tcp
+88,OpenSSH,1.0,22,tcp
+89,Spring Framework,1.0,8080,tcp
+90,Microsoft RDP,1.0,3389,tcp
+91,Docker runc,1.0,0,tcp
+92,Microsoft RPC,1.0,135,tcp
+93,Microsoft SMBv1,1.0,445,tcp
+94,Apache HTTP Server,1.0,80,tcp
+95,OpenSSH,1.0,22,tcp
+96,Spring Framework,1.0,8080,tcp
+97,Microsoft RDP,1.0,3389,tcp
+98,Docker runc,1.0,0,tcp
+99,Microsoft RPC,1.0,135,tcp
+100,Microsoft SMBv1,1.0,445,tcp
+101,Apache HTTP Server,1.0,80,tcp
+102,OpenSSH,1.0,22,tcp
+103,Spring Framework,1.0,8080,tcp
+104,Microsoft RDP,1.0,3389,tcp
+105,Docker runc,1.0,0,tcp
+106,Microsoft RPC,1.0,135,tcp
+107,Microsoft SMBv1,1.0,445,tcp
+108,Apache HTTP Server,1.0,80,tcp
+109,OpenSSH,1.0,22,tcp
+110,Spring Framework,1.0,8080,tcp
+111,Microsoft RDP,1.0,3389,tcp
+112,Docker runc,1.0,0,tcp
+113,Microsoft RPC,1.0,135,tcp
+114,Microsoft SMBv1,1.0,445,tcp
+115,Apache HTTP Server,1.0,80,tcp
+116,OpenSSH,1.0,22,tcp
+117,Spring Framework,1.0,8080,tcp
+118,Microsoft RDP,1.0,3389,tcp
+119,Docker runc,1.0,0,tcp
+120,Microsoft RPC,1.0,135,tcp
+121,Microsoft SMBv1,1.0,445,tcp
+122,Apache HTTP Server,1.0,80,tcp
+123,OpenSSH,1.0,22,tcp
+124,Spring Framework,1.0,8080,tcp
+125,Microsoft RDP,1.0,3389,tcp
+126,Docker runc,1.0,0,tcp
+127,Microsoft RPC,1.0,135,tcp
+128,Microsoft SMBv1,1.0,445,tcp
+129,Apache HTTP Server,1.0,80,tcp
+130,OpenSSH,1.0,22,tcp
+131,Spring Framework,1.0,8080,tcp
+132,Microsoft RDP,1.0,3389,tcp
+133,Docker runc,1.0,0,tcp
+134,Microsoft RPC,1.0,135,tcp
+135,Microsoft SMBv1,1.0,445,tcp
+136,Apache HTTP Server,1.0,80,tcp
+137,OpenSSH,1.0,22,tcp
+138,Spring Framework,1.0,8080,tcp
+139,Microsoft RDP,1.0,3389,tcp
+140,Docker runc,1.0,0,tcp
+141,Microsoft Windows RPC 1.0,1.0,135,tcp
+142,Microsoft Windows netbios-ssn 1.0,1.0,139,tcp
+143,microsoft-ds 1.0,1.0,445,tcp
+144,MySQL 1.0,1.0,3306,tcp
+145,Microsoft Windows RPC 1.0,1.0,135,tcp
+146,Microsoft Windows netbios-ssn 1.0,1.0,139,tcp
+147,microsoft-ds 1.0,1.0,445,tcp
+148,MySQL 1.0,1.0,3306,tcp
+149,Microsoft Windows RPC 1.0,1.0,135,tcp
+150,Microsoft Windows netbios-ssn 1.0,1.0,139,tcp
+151,microsoft-ds 1.0,1.0,445,tcp
+152,MySQL 1.0,1.0,3306,tcp
+153,Microsoft Windows RPC 1.0,1.0,135,tcp
+154,Microsoft Windows netbios-ssn 1.0,1.0,139,tcp
+155,microsoft-ds 1.0,1.0,445,tcp
+156,MySQL 1.0,1.0,3306,tcp
+157,Microsoft Windows RPC 1.0,1.0,135,tcp
+158,Microsoft Windows netbios-ssn 1.0,1.0,139,tcp
+159,microsoft-ds 1.0,1.0,445,tcp
+160,MySQL 1.0,1.0,3306,tcp
+161,Microsoft Windows RPC 1.0,1.0,135,tcp
+162,Microsoft Windows netbios-ssn 1.0,1.0,139,tcp
+163,microsoft-ds 1.0,1.0,445,tcp
+164,MySQL 1.0,1.0,3306,tcp
+165,Service on Port 445,1.0,445,tcp
+166,Service on Port 135,1.0,135,tcp
+167,Service on Port 3306,1.0,3306,tcp
+168,Service on Port 139,1.0,139,tcp
+169,Service on Port 445,1.0,445,tcp
+170,Service on Port 135,1.0,135,tcp
+171,Service on Port 3306,1.0,3306,tcp
+172,Service on Port 139,1.0,139,tcp
+173,Service on Port 445,1.0,445,tcp
+174,Service on Port 135,1.0,135,tcp
+175,Service on Port 3306,1.0,3306,tcp
+176,Service on Port 139,1.0,139,tcp
+177,Service on Port 445,1.0,445,tcp
+178,Service on Port 135,1.0,135,tcp
+179,Service on Port 3306,1.0,3306,tcp
+180,Service on Port 139,1.0,139,tcp

@@ -1,0 +1,14 @@
+patch_key,patch_id_ref,patch_name,patch_status,remediation_effort_hours,remediation_complexity,remediation_multiplier
+1,PATCH-MS-ZEROLOGON,Security Update for CVE-2020-1472,Available,4.0,Low,1.0
+2,PATCH-MS17-010,Security Update for CVE-2017-0144,Available,2.0,Low,1.0
+3,PATCH-LOG4J-217,Security Update for CVE-2021-44228,Available,3.0,Low,1.0
+4,PATCH-SSH-TERRAPIN,Security Update for CVE-2023-48795,Available,1.5,Low,1.0
+5,PATCH-SPRING-5318,Security Update for CVE-2022-22965,Available,6.0,Low,1.0
+6,PATCH-MS-BLUEKEEP,Security Update for CVE-2019-0708,Available,2.0,Low,1.0
+7,PATCH-RUNC-1112,Security Update for CVE-2024-21626,Available,1.0,Low,1.0
+141,PATCH-CVE-2020-1472,Security Remediation for CVE-2020-1472,Available,4.0,Low,1.0
+142,PATCH-VULN-PORT-139,Security Remediation for VULN-PORT-139,Available,2.0,Low,1.0
+143,PATCH-CVE-2017-0144,Security Remediation for CVE-2017-0144,Available,2.0,Low,1.0
+144,PATCH-VULN-PORT-3306,Security Remediation for VULN-PORT-3306,Available,2.0,Low,1.0
+167,PATCH-CVE-2021-22926,Security Remediation for CVE-2021-22926,Available,2.0,Low,1.0
+168,PATCH-CVE-2017-7494,Security Remediation for CVE-2017-7494,Available,2.5,Low,1.0

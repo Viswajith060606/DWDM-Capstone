@@ -1,0 +1,8 @@
+asset_key,ip_address,hostname,os_family,criticality_tier,criticality_score,network_zone,exposure_score
+1,192.168.1.10,dc-primary.lab,Windows Server 2022,Tier 1,100.0,Internal,40.0
+3,192.168.1.50,web-gateway.lab,Debian 12,Tier 2,75.0,DMZ,75.0
+5,192.168.1.55,api-backend.lab,Alpine Linux,Tier 2,75.0,DMZ,75.0
+6,192.168.1.101,dev-workstation-01,Windows 11,Tier 3,50.0,Internal,40.0
+7,192.168.1.102,dev-workstation-02,Ubuntu 24.04,Tier 3,50.0,Internal,40.0
+141,172.23.29.95,host-172-23-29-95,Target Host OS,Tier 2,75.0,Internal,40.0
+157,10.86.231.131,lab-host.local,Target Host OS,Tier 2,75.0,Internal,40.0
